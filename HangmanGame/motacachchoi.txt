@@ -1,0 +1,1 @@
+chuong trinh se tu dong random 1 tu mat dinh trong mang cho truoc. moi ki tu la 1 dau gach, nguoi choi phai doan tung ki tu neu doan sai nhieu lan se bi treo co va game over.
